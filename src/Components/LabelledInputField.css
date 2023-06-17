@@ -1,0 +1,13 @@
+.input-box{
+    padding: 20px;
+    text-align: center;
+    width:200px;
+}
+.text{
+    text-align: left;
+}
+.input-text{   
+    border-radius: 5px;
+    height: 35px;
+    width: 200px;
+}
